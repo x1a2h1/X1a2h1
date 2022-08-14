@@ -22,13 +22,15 @@
   
   ### 关于我
   你好，我是 Riecko ，也可以叫我 *夏至*！🌸
+  
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x1a2h1&show_icons=true&inc">
 </a>
 
 
 
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 
