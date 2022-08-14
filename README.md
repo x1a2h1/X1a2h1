@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## 富强 民主 文明 和谐
+## 自由 平等 公正 法治
+## 爱国 敬业 诚信 友善
 <!--
 **X1a2h1/X1a2h1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
