@@ -20,11 +20,10 @@
   <img src="https://img.shields.io/badge/友善-gray.svg?color=ff461f&style=for-the-badge"/>
   </p>
   
-  ### 关于我
-  你好，我是 Riecko ，也可以叫我 *夏至*！🌸
- 
-  [博客](https://blog.crunl.cn/)
-   👇 👇 👇 👇 👇 👇 👇 👇  就喜欢搞些花里胡哨的 🤡
+  ### 关于我🤡
+  你好，我是 Riecko ，也可以叫我 *夏至*！🌸<br>
+  这是我的[博客](https://blog.crunl.cn/)<br>
+  就喜欢搞些花里胡哨的
    <br/><br/>
   <code><img height="20" alt="java" src="/assets/java.svg" ></code>
   <code><img height="20" alt="javascript" src="/assets/javascript.svg"></code>
