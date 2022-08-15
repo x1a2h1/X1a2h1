@@ -29,6 +29,7 @@
   <code><img height="20" alt="java" src="/assets/java.svg" ></code>
   <code><img height="20" alt="javascript" src="/assets/javascript.svg"></code>
   <code><img height="20" alt="docker" src="https://static.npmjs.com/255a118f56f5346b97e56325a1217a16.svg"></code>
+  <code><a href="naiveui.com"/><img height="20" alt="javascript" src="/assets/naiveui.svg"></code>
   <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x1a2h1&show_icons=true&inc">
 </a>
@@ -48,7 +49,7 @@
  </a>
  
   <a href="mailto:tanchjim@aol.com">
- <img src="https://img.shields.io/badge/-Mail-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwIDNINGEzIDMgMCAwIDAtMyAzdjEyYTMgMyAwIDAgMCAzIDNoMTZhMyAzIDAgMCAwIDMtM1Y2YTMgMyAwIDAgMC0zLTNabS0uMzI4IDEyLjYyYTEgMSAwIDEgMS0xLjM0NCAxLjQ4bC00LjE0My0zLjc2YTMuOTM3IDMuOTM3IDAgMCAxLTQuMzcgMEw1LjY3MiAxNy4xYTEgMSAwIDAgMS0xLjM0NC0xLjQ4bDMuOTU2LTMuNTkxTDQuMzI3IDguNDNhMSAxIDAgMSAxIDEuMzQ2LTEuNDhsNC45NzkgNC41MjlhMi4wMDUgMi4wMDUgMCAwIDAgMi43IDBsNC45NzUtNC41MjlhMSAxIDAgMCAxIDEuMzQ2IDEuNDhsLTMuOTU2IDMuNloiIGZpbGw9IiMwMGFhZmYiIGNsYXNzPSJmaWxsLTIzMjMyMyI+PC9wYXRoPjwvc3ZnPg==" >
+ <img src="https://img.shields.io/badge/-EMail-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwIDNINGEzIDMgMCAwIDAtMyAzdjEyYTMgMyAwIDAgMCAzIDNoMTZhMyAzIDAgMCAwIDMtM1Y2YTMgMyAwIDAgMC0zLTNabS0uMzI4IDEyLjYyYTEgMSAwIDEgMS0xLjM0NCAxLjQ4bC00LjE0My0zLjc2YTMuOTM3IDMuOTM3IDAgMCAxLTQuMzcgMEw1LjY3MiAxNy4xYTEgMSAwIDAgMS0xLjM0NC0xLjQ4bDMuOTU2LTMuNTkxTDQuMzI3IDguNDNhMSAxIDAgMSAxIDEuMzQ2LTEuNDhsNC45NzkgNC41MjlhMi4wMDUgMi4wMDUgMCAwIDAgMi43IDBsNC45NzUtNC41MjlhMSAxIDAgMCAxIDEuMzQ2IDEuNDhsLTMuOTU2IDMuNloiIGZpbGw9IiMwMGFhZmYiIGNsYXNzPSJmaWxsLTIzMjMyMyI+PC9wYXRoPjwvc3ZnPg==" >
  </a>
 
 
