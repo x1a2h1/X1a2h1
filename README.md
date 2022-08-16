@@ -2,22 +2,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=&size=14&pause=1000&color=F70404&background=FCF70F&center=true&vCenter=true&width=355&height=35&lines=%F0%9F%87%A8%F0%9F%87%B3%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%F0%9F%87%A8%F0%9F%87%B3;%E5%AF%8C%E5%BC%BA%E3%80%81%E6%B0%91%E4%B8%BB%E3%80%81%E6%96%87%E6%98%8E%E3%80%81%E5%92%8C%E8%B0%90%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%B1%82%E9%9D%A2%E7%9A%84%E4%BB%B7%E5%80%BC%E7%9B%AE%E6%A0%87%EF%BC%8C;%E8%87%AA%E7%94%B1%E3%80%81%E5%B9%B3%E7%AD%89%E3%80%81%E5%85%AC%E6%AD%A3%E3%80%81%E6%B3%95%E6%B2%BB%E6%98%AF%E7%A4%BE%E4%BC%9A%E5%B1%82%E9%9D%A2%E7%9A%84%E4%BB%B7%E5%80%BC%E5%8F%96%E5%90%91%EF%BC%8C;%E7%88%B1%E5%9B%BD%E3%80%81%E6%95%AC%E4%B8%9A%E3%80%81%E8%AF%9A%E4%BF%A1%E3%80%81%E5%8F%8B%E5%96%84%E6%98%AF%E5%85%AC%E6%B0%91%E4%B8%AA%E4%BA%BA%E5%B1%82%E9%9D%A2%E7%9A%84%E4%BB%B7%E5%80%BC%E5%87%86%E5%88%99%E3%80%82" alt="Typing SVG" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/富强-gray.svg?color=ff461f&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/民主-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/文明-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/和谐-gray.svg?color=ff461f&style=for-the-badge"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/富强-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/民主-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/文明-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/和谐-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   <p align="center">
-<img src="https://img.shields.io/badge/自由-gray.svg?color=ff461f&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/平等-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/公正-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/法治-gray.svg?color=ff461f&style=for-the-badge"/>
+  &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/自由-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/平等-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/公正-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/法治-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   <p align="center">
-<img src="https://img.shields.io/badge/爱国-gray.svg?color=ff461f&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/敬业-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/诚信-gray.svg?color=ff461f&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/友善-gray.svg?color=ff461f&style=for-the-badge"/>
+  &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/爱国-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/敬业-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/诚信-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/友善-gray.svg?color=ff461f&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
   
   ### 关于我🤡
