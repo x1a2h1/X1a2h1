@@ -28,10 +28,10 @@
   这是我的[博客](https://blog.crunl.cn/)<br>
   就喜欢搞些花里胡哨的
    <br/><br/>
-  <code><img height="20" alt="java" src="/assets/java.svg" ></code>
-  <code><img height="20" alt="javascript" src="/assets/javascript.svg"></code>
+  <code><img height="20" alt="java" src="https://cdn.jsdelivr.net/gh/x1a2h1/x1a2h1@main/assets/java.svg" ></code>
+  <code><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/x1a2h1/x1a2h1@main/assets/javascript.svg"></code>
   <code><img height="20" alt="docker" src="https://static.npmjs.com/255a118f56f5346b97e56325a1217a16.svg"></code>
-  <code><a href="naiveui.com"/><img height="20" alt="javascript" src="/assets/naiveui.svg"></code>
+  <code><a href="naiveui.com"/><img height="20" alt="javascript" src="https://cdn.jsdelivr.net/gh/x1a2h1/x1a2h1@main/assets/naiveui.svg"></code>
   <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x1a2h1&show_icons=true&inc">
 </a>
