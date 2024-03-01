@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/-EMail-FFFFFF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIwIDNINGEzIDMgMCAwIDAtMyAzdjEyYTMgMyAwIDAgMCAzIDNoMTZhMyAzIDAgMCAwIDMtM1Y2YTMgMyAwIDAgMC0zLTNabS0uMzI4IDEyLjYyYTEgMSAwIDEgMS0xLjM0NCAxLjQ4bC00LjE0My0zLjc2YTMuOTM3IDMuOTM3IDAgMCAxLTQuMzcgMEw1LjY3MiAxNy4xYTEgMSAwIDAgMS0xLjM0NC0xLjQ4bDMuOTU2LTMuNTkxTDQuMzI3IDguNDNhMSAxIDAgMSAxIDEuMzQ2LTEuNDhsNC45NzkgNC41MjlhMi4wMDUgMi4wMDUgMCAwIDAgMi43IDBsNC45NzUtNC41MjlhMSAxIDAgMCAxIDEuMzQ2IDEuNDhsLTMuOTU2IDMuNloiIGZpbGw9IiMwMGFhZmYiIGNsYXNzPSJmaWxsLTIzMjMyMyI+PC9wYXRoPjwvc3ZnPg==" >
  </a>
   
-  ### Tech stack
+  ### 🌈 Tech stack
 
   <code><img height="20" src="https://skillicons.dev/icons?i=js"></code>
   <code><img height="20" src="https://skillicons.dev/icons?i=ts"></code>
