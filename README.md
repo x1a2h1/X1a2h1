@@ -42,9 +42,6 @@
 <a href="#">
  <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1a2h1&layout=compact" alt="这是仓库语言使用统计，如果看不到请刷新！" />
   <a/>
-<a href="#"> 
- <img align="right" height="50" src="https://count.getloli.com/get/@:X1a2h1" alt="这是访问量计数，如果看不到请刷新！" />
-</a>
 
 <br/>
 
