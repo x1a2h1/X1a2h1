@@ -29,7 +29,7 @@
   
   
 ### 🛠 Tools
-<img height="25" src="https://skillicons.dev/icons?i=docker,k8s,cloudflare,vercel,mysql,redis,vim,webstorm,rider,vscode,unity,githubactions,goland,mongodb">
+<img height="25" src="https://skillicons.dev/icons?i=docker,k8s,cloudflare,vercel,mysql,redis,vim,webstorm,rider,vscode,unity,githubactions,mongodb,goland">
 
 ### 🛵 System
 <img height="25" src="https://skillicons.dev/icons?i=apple,debian,ubuntu,windows">
