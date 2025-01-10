@@ -40,7 +40,7 @@
 <br />
 <br />
 <a href="#">
- <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1a2h1&layout=compact" alt="这是仓库语言使用统计，如果看不到请刷新！" />
+ <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1a2h1&layout=compact" alt="这是仓库语言使用统计，如果看不到请刷新！" />
   <a/>
 
 <br/>
